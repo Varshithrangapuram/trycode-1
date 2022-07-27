@@ -2,3 +2,5 @@
 int a,b;
 int c,d;
 float e;
+print("enter two numbers\n");
+scanf("%d %d",&a,&b);
